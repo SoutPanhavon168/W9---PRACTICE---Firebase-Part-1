@@ -1,0 +1,1 @@
+ /Users/soutpanhavon/Desktop/W9---PRACTICE---Firebase-Part-1/.dart_tool/flutter_build/89643a0023b37afc65892475464a38b4/native_assets.json: 
